@@ -1,0 +1,9 @@
+PROMPT PARA RECRIAR OU EVOLUIR O PORTFÓLIO
+
+Crie um portfólio profissional, moderno e responsivo para um professor da área de Educação e Tecnologia, usando somente HTML5, CSS3 e JavaScript puro, organizado em index.html, style.css e script.js para editar no Visual Studio Code. A identidade visual deve transmitir tecnologia, confiança e educação: fundo azul-marinho profundo, detalhes em verde-água e azul-violeta, tipografia contemporânea, cards elegantes, bom contraste, animações discretas e excelente experiência em celular.
+
+Use a foto fornecida como retrato principal, sem modificar a identidade da pessoa. Inclua menu com navegação por âncoras, apresentação profissional, seção sobre a abordagem de ensino, cards com busca para os dez componentes curriculares, metodologia de aprendizagem por etapas, formulário de contato com validação e rodapé com ano automático. Inclua alternância de tema claro/escuro, menu móvel acessível, HTML semântico, foco visível, respeito à preferência por movimento reduzido e comentários no código.
+
+Os componentes curriculares devem ser: Programação Front End; Programação Back End; Modelagem de Software; Banco de Dados; Sistemas Operacionais; Montagem e Manutenção de Computadores; Arquitetura de Computadores; Qualidade e Teste de Software; Desenvolvimento de Projeto de Sistema; Segurança da Informação.
+
+Não invente diplomas, experiência profissional, instituições, telefone ou e-mail. Deixe explícito no README onde personalizar informações pessoais e o endereço de e-mail. Entregue todos os arquivos em uma única pasta compactada ZIP e inclua instruções de abertura no VS Code.
